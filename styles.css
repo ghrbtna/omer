@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(Ekran\ görüntüsü\ 2024-08-19\ 141359.png); /* Okyanus arka plan resmi */
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    text-align: center;  
+}
+
+
+
+
+a {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+font-size: 45px;
+}
